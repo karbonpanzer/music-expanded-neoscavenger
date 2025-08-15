@@ -1,0 +1,26 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_NEOScavenger</defName>
+        <label>Music Expanded: NEOScavenger</label>
+		<iconPath>UI/Icons/NEOScavenger</iconPath>
+        <description>Contains Tracks from the Survival game NEOScavenger.</description>
+		<tracks>			
+			<li>ME_NEOScavenger_After_Michigan</li>
+			<li>ME_NEOScavenger_Beyond_the_Swamp</li>
+			<li>ME_NEOScavenger_Coalesce</li>
+			<li>ME_NEOScavenger_Desperate_Measures</li>
+			<li>ME_NEOScavenger_Distant_Signals</li>
+			<li>ME_NEOScavenger_Dust</li>
+			<li>ME_NEOScavenger_Empty_Horizon</li>
+			<li>ME_NEOScavenger_Hindsight</li>
+			<li>ME_NEOScavenger_Making_Time</li>
+			<li>ME_NEOScavenger_Over_the_City</li>
+			<li>ME_NEOScavenger_Reflections_Rising</li>
+			<li>ME_NEOScavenger_Ritual</li>
+			<li>ME_NEOScavenger_The_Vast</li>
+			<li>ME_NEOScavenger_Trailing_Lights</li>
+			<li>ME_NEOScavenger_Unfamiliar_Surroundings</li>
+			<li>ME_NEOScavenger_Urban_Pulse</li>
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

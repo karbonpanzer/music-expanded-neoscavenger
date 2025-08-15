@@ -1,0 +1,82 @@
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- After Michigan</label>
+		<defName>ME_NEOScavenger_After_Michigan</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- After Michigan</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- Beyond the Swamp</label>
+		<defName>ME_NEOScavenger_Beyond_the_Swamp</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- Beyond the Swamp</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- Coalesce</label>
+		<defName>ME_NEOScavenger_Coalesce</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- Coalesce</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- Desperate Measures</label>
+		<defName>ME_NEOScavenger_Desperate_Measures</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- Desperate Measures</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- Distant Signal</label>
+		<defName>ME_NEOScavenger_Distant_Signals</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- Distant Signals</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- Dust</label>
+		<defName>ME_NEOScavenger_Dust</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- Dust</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- Empty Horizon</label>
+		<defName>ME_NEOScavenger_Empty_Horizon</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- Empty Horizon</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- Hindsight</label>
+		<defName>ME_NEOScavenger_Hindsight</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- Hindsight</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- Making Time</label>
+		<defName>ME_NEOScavenger_Making_Time</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- Making Time</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- Over the City</label>
+		<defName>ME_NEOScavenger_Over_the_City</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- Over the City</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- Reflections Rising</label>
+		<defName>ME_NEOScavenger_Reflections_Rising</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- Reflections Rising</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- Ritual</label>
+		<defName>ME_NEOScavenger_Ritual</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- Ritual</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- The Vast</label>
+		<defName>ME_NEOScavenger_The_Vast</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- The Vast</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- Trailing Lights</label>
+		<defName>ME_NEOScavenger_Trailing_Lights</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- Trailing Lights</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- Unfamiliar Surroundings</label>
+		<defName>ME_NEOScavenger_Unfamiliar_Surroundings</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- Unfamiliar Surroundings</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>NEOScavenger- Urban Pulse</label>
+		<defName>ME_NEOScavenger_Urban_Pulse</defName>
+		<clipPath>MusicExpanded/NEOScavenger/NEOScavenger- Urban Pulse</clipPath>
+	</MusicExpanded.TrackDef>	
+</Defs>
